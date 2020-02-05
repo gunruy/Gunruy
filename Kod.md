@@ -1,8 +1,7 @@
 Bu sayfada indirmeyi başaramıyanlar için kodun birebir aynısı bulunmaktadır
 instagram:Gunruy.offical
 -----------------------
-not: bu kodu yazmadan önce scanner kütüphanesini import etmelisiniz 
-        import java.util.Scanner;   
+not: bu kodu yazmadan önce scanner kütüphanesini import etmelisiniz import java.util.Scanner;   
 ile yapılacak
 -------------------------
 yeni bir class oluştururken seçeneklerden public static void main(strings[] args) kutucuğunu işaretlemeyi unutmayınız
