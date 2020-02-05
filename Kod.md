@@ -1,4 +1,4 @@
-Bu sayfada indirmeyi başaramıyanlar için kodun birebir aynısıbulunmaktadır
+Bu sayfada indirmeyi başaramıyanlar için kodun birebir aynısı bulunmaktadır
 instagram:Gunruy.offical
 -----------------------
 not: bu kodu yazmadan önce scanner kütüphanesini import etmelisiniz 
